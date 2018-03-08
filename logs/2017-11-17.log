@@ -1,0 +1,12 @@
+[INFO] 2017-11-17 09:26:17.7778  app.go:78 --------------------------------------------- [0m
+[INFO] 2017-11-17 09:26:17.7778  app.go:79 App Name:hqpost [0m
+[INFO] 2017-11-17 09:26:17.7788  app.go:80 Server started, version 0.2.0.2-9/14 [0m
+[INFO] 2017-11-17 09:26:17.7788  app.go:81 Start-up time: 2017-11-17 09:26:17 [0m
+[INFO] 2017-11-17 09:26:17.7788  app.go:82 Local Address: 192.168.9.216 [0m
+[INFO] 2017-11-17 09:26:17.7788  app.go:91 :0000 - Listening [0m
+[INFO] 2017-11-17 09:26:17.7788  app.go:92 -------------------------------------------- [0m
+args-----: 0
+args-----: 1
+[INFO] 2017-11-17 09:26:17.7788  security.go:60 Update Kline historical data successed, and running time:0s [0m
+[35m[REDIS] 2017-11-17 09:26:17.8058  hkline.go:283 SET | hq:post:time:executed [0m
+[INFO] 2017-11-17 09:26:17.8108  hqpost.go:34 Run succeed, and return 0... [0m
